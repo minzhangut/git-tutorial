@@ -49,4 +49,3 @@ int main() {
     cout << "Prime " << count << " is " << sequence.nextprime() << endl;
   return 0;
 }
-//this is a comment
